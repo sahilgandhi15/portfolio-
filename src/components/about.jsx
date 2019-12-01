@@ -15,8 +15,8 @@ export default class About extends Component {
                     <h2 className="colorlib-heading">Who Am I?</h2>
                     <p>I'm a front end developer currently working as a Contactor for TD Bank in Toronto.
                     I have serious passion for UI effects, animations and creating intuitive, dynamic user experiences.
-                    <p> <b>Proud Toronto Raptors Fan</b></p>.
-                    </p>                    
+                    </p>  <p> <b>Proud Toronto Raptors Fan</b></p>
+                                       
                     </div>
                 </div>
                 </div>
