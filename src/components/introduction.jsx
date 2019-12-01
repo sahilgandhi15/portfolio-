@@ -15,7 +15,7 @@ export default class Introduction extends Component {
                       <div className="slider-text-inner js-fullheight">
                         <div className="desc">
                           <h1>Hi! <br />I'm Sahil</h1>
-                          <p><a className="btn btn-primary btn-learn" href="https://docs.google.com/document/d/15coSa2rnZcdywihM-pWTvoGqE65JAkxQAh6JDBNrF2Q/edit?usp=sharing" target="_blank" rel="noopener noreferrer">View CV<i className="icon-download4" /></a></p>
+                          <p><a className="btn btn-primary btn-learn" href="https://drive.google.com/file/d/1CtJl66SyVzaISxQ5qZyrW1IoIthLoq0H/view?usp=sharing" target="_blank" rel="noopener noreferrer">View CV<i className="icon-download4" /></a></p>
                         </div>
                       </div>
                     </div>
@@ -37,7 +37,7 @@ export default class Introduction extends Component {
                   </div>
                 </div>
               </li>
-              <li style={{backgroundImage: 'url(images/img_bg.png)'}}>
+              {/* <li style={{backgroundImage: 'url(images/img_bg.png)'}}>
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
@@ -51,7 +51,7 @@ export default class Introduction extends Component {
                     </div>
                   </div>
                 </div>
-              </li>
+              </li> */}
             </ul>
           </div>
         </section>
