@@ -13,7 +13,7 @@ export default class About extends Component {
                     <div className="about-desc">
                     {/* <span className="heading-meta">About Us</span> */}
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I'm the Front-End Developer currently working as developer for TD Bank in Toronto.
+                    <p>I'm a front end developer currently working as a Contactor for TD Bank in Toronto.
                     I have serious passion for UI effects, animations and creating intuitive, dynamic user experiences.
                     <p> <b>Proud Toronto Raptors Fan</b></p>.
                     </p>                    
